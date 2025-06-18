@@ -1,0 +1,54 @@
+.body {
+  background-color: #1e252b; /* Fondo oscuro */
+  color: #e5e5e5; /* Texto claro */
+  font-family: Roboto, sans-serif;
+}
+
+.btn-Personalizado {
+  background-color: #58a08c; /* Verde */
+  border: none;
+  color: #e5e5e5;
+  padding: 5px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.btn-Personalizado:hover {
+  background-color: #52bca3; /* Verde más oscuro */
+}
+
+.text-primario {
+  color: #e5e5e5;
+} /* blanco */
+
+.cor-pri-personalizada {
+  color: #58a08c; /* Verde */
+}
+
+.cor-segu-personalizada {
+  color: #52bca3; /* Blanco */
+}
+
+.cor-pri-fundo {
+  background-color: #1e252b; /* Fondo oscuro */
+}
+
+.cor-segu-fundo {
+  background-color: #9099a2; /* Fondo más claro */
+}
+
+.text-font {
+  font-family: "Roboto", sans-serif;
+}
+
+.mi-sombreado {
+  background-color: #2a343d;
+  border-radius: 10px;
+  padding: 20px;
+  border: 2px solid #58a08c;
+}
