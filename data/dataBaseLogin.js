@@ -1,10 +1,10 @@
 export const usuario = [
   {
     id: 1,
-    nombre: "admin",
-    apellido: "admin",
+    nombre: "José",
+    apellido: "Perez Bonaldes",
     email: "luis@chefencasa.com",
-    usuario: "admin",
+    usuario: "jperezbonaldes@cheffencasa.com",
     contrasena: "admin123",
     rol: "admin",
   },

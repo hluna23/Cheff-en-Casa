@@ -39,7 +39,7 @@
 }
 
 .cor-segu-fundo {
-  background-color: #9099a2; /* Fondo más claro */
+  background-color: #2A343D; /* Fondo más claro */
 }
 
 .text-font {
@@ -47,8 +47,25 @@
 }
 
 .mi-sombreado {
-  background-color: #2a343d;
+  background-color: #2A343D !important;
   border-radius: 10px;
   padding: 20px;
   border: 2px solid #58a08c;
+}
+
+.sombreado-table th, td, tr {
+  background-color: #37393b !important;
+  box-shadow: 0px 0px 2px #5afdd7;
+  border-radius: 10px;
+  padding: 20px;
+  border: 2px solid #52bca3;
+  color: #e5e5e5;
+ 
+}
+
+.text-table td,tr  {
+  color: #e5e5e5;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+
 }
